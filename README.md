@@ -1,16 +1,13 @@
-# untitled
+# 期末專題 C111181144
 
-A new Flutter project.
+# 功能
 
-## Getting Started
+1.根據數據顯示建議
 
-This project is a starting point for a Flutter application.
+2.保存歷史紀錄
 
-A few resources to get you started if this is your first Flutter project:
+3.根據歷史記錄顯示數據圖表
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4.可以對數據進行修改或刪除
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
